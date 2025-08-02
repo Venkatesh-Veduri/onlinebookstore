@@ -1,4 +1,4 @@
-Testing webhooks
-Hello CD
+Testing webhooks for Automatic Triggering (Means CI)
+Hello Continueous Deployment
 ADDED WEBHOOKS
 
