@@ -6,7 +6,7 @@ stage('Build')
 {
 steps{
 echo "Building the Code.........."
- sh "mvn --version"
+ sh "mvn -v"
  sh "mvn clean"
 }
 }
